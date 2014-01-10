@@ -31,7 +31,3 @@ This binding depends on:
 * JQuery
 * moment.js
 
-
-TODO:
-
-* Support ko 2.0 
