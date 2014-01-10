@@ -12,13 +12,13 @@ Custom bindigs that make easy to work with the following date and time pickers:
 ### date picker:
 
 
-	<input type="text" data-bind="dateValue:birthday"/>
-	<input type="text" data-bind="dateValue:birthday,format='MM/DD/YYY'"/>
+    <input type="text" data-bind="dateValue:birthday"/>
+    <input type="text" data-bind="dateValue:birthday,format='MM/DD/YYY'"/>
 
 ### time picker (hour selection):
 
 
-	<input type="text" data-bind="timeValue:birthday"/>
+    <input type="text" data-bind="timeValue:birthday"/>
 
 
 
