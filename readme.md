@@ -5,7 +5,7 @@ Custom bindigs that make easy to work with the following date and time pickers:
 * https://github.com/eternicode/bootstrap-datepicker
 * http://jdewit.github.io/bootstrap-timepicker/
 
-( Beware that there is an outdated version of the boostrap-datepicker here http://www.eyecon.ro/bootstrap-datepicker/ )
+( Beware that there is an outdated version of the boostrap-datepicker here http://www.eyecon.ro/bootstrap-datepicker/  <-- This bindings do not work with this one)
 
 ## Usage:
 
