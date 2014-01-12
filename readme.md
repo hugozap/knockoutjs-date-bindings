@@ -9,6 +9,11 @@ Custom bindigs that make easy to work with the following date and time pickers:
 
 ( Beware that there is an outdated version of the boostrap-datepicker here http://www.eyecon.ro/bootstrap-datepicker/  <-- This bindings do not work with this one)
 
+Demo:
+
+http://hugozap.com/demos/knockoutDateBinding/index.html
+
+
 ## Usage:
 
 ### date picker:
