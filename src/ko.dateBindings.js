@@ -90,7 +90,7 @@
       var date =  ko.unwrap(valueAccessor());
      
       if(date){
-        var time = moment(date).format("hh:mm");
+        var time = moment(date).format("hh:mm a");
         $(element).timepicker('setTime',time);
       }
     }
